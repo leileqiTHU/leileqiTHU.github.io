@@ -28,7 +28,7 @@ With the rapid development of Large Language Models (LLMs), increasing attention
 
 ## Competitions
 
-### [2024 Global Challenge for Safe and Secure LLMs Track 1: 3rd Prize](https://arxiv.org/abs/2411.14502)
+### \[2024\] [Global Challenge for Safe and Secure LLMs Track 1: 3rd Prize](https://arxiv.org/abs/2411.14502)
 *Team Member:* Zhexin Zhang, Junxiao Yang, Shiyao Cui, Renmiao Chen, **Leqi Lei**, Yida Lu
 
 *Introduction*
