@@ -4,7 +4,7 @@
 This is where I share my projects, research, and other cool things!
 
 ## About Me
-<div style="text-align: center;">
+<div align="center">
   <img src="./assets/photo.jpeg" alt="My Photo" width="350" height="auto"/>
 </div>
 
