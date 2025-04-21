@@ -9,7 +9,7 @@ I am a second-year master's student at Tsinghua University, specializing in AI. 
 ## Publications
 
 ### \[Arxiv 2025\] [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776)
-*Authors:* Zhexin Zhang*, **Leqi Lei***, Junxiao Yang*, Xijie Huang*, Yida Lu, Shiyao Cui, Renmiao Chen, Qinglin Zhang, Xinyuan Wang, Hao Wang, Hao Li, Xianqi Lei, Chengwei Pan, Lei Sha, Hongning Wang, Minlie Huang
+*Authors:* Zhexin Zhang\*, **Leqi Lei\***, Junxiao Yang\*, Xijie Huang\*, Yida Lu, Shiyao Cui, Renmiao Chen, Qinglin Zhang, Xinyuan Wang, Hao Wang, Hao Li, Xianqi Lei, Chengwei Pan, Lei Sha, Hongning Wang, Minlie Huang
 
 *Abstract:*
 
