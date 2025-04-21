@@ -31,20 +31,22 @@ With the rapid development of Large Language Models (LLMs), increasing attention
 ### \[2024\] [Global Challenge for Safe and Secure LLMs Track 1: 3rd Prize](https://arxiv.org/abs/2411.14502)
 *Team Member:* Zhexin Zhang, Junxiao Yang, Shiyao Cui, Renmiao Chen, **Leqi Lei**, Yida Lu
 
-*Introduction*
+*Introduction:*
 The Global Challenge for Safe and Secure Large Language Models (LLMs) is a pioneering initiative organized by AI Singapore (AISG) and the CyberSG R&D Programme Office (CRPO) to foster the development of advanced defense mechanisms against automated jailbreaking attacks. Track 1 tasked participants with developing automated methods to probe LLM vulnerabilities by eliciting undesirable responses, effectively testing the limits of existing safety protocols within LLMs. Participants were challenged to devise techniques that could bypass content safeguards across a diverse array of scenarios, from offensive language to misinformation and illegal activities. Through this process, Track 1 aimed to deepen the understanding of LLM vulnerabilities and provide insights for creating more resilient models.
 
 ## Projects
 
 ### \[2025\] [Attacker-v0.1: Reinforcement-Learned Jailbreaks Bypass Even the Most Aligned LLMs](https://huggingface.co/thu-coai/Attacker-v0.1)
-*Introduction:* Attacker-v0.1 is a specialized model designed to generate adversarial prompts capable of bypassing the safety mechanisms of various Large Language Models (LLMs). Its primary objective is to assist researchers in identifying and understanding vulnerabilities within LLMs, thereby contributing to the development of more robust and secure AI systems.
+*Introduction:* 
+Attacker-v0.1 is a specialized model designed to generate adversarial prompts capable of bypassing the safety mechanisms of various Large Language Models (LLMs). Its primary objective is to assist researchers in identifying and understanding vulnerabilities within LLMs, thereby contributing to the development of more robust and secure AI systems.
 
 *Github Repo:* [https://github.com/leileqiTHU/Attacker](https://github.com/leileqiTHU/Attacker)
 
 *HuggingFace Link:* [https://huggingface.co/thu-coai/Attacker-v0.1](https://huggingface.co/thu-coai/Attacker-v0.1)
 
 ### \[2025\] [MTPhysics: Try to Improve the Knowledge Extraction Ability of LLMs by Using Multi-token-prediction](https://github.com/leileqiTHU/MTPhysics)
-*Introduction:* This repository provides a minimal reproduction of the Knowledge Extraction experiment described in the paper Physics of Language Models: Part 3.1, Knowledge Storage and Extraction. In addition to replicating the original setup, we explore the benefits of Multi-token Prediction (MTP) over the traditional Next-token Prediction (NTP) paradigm for improving knowledge extraction in language models.
+*Introduction:* 
+This repository provides a minimal reproduction of the Knowledge Extraction experiment described in the paper Physics of Language Models: Part 3.1, Knowledge Storage and Extraction. In addition to replicating the original setup, we explore the benefits of Multi-token Prediction (MTP) over the traditional Next-token Prediction (NTP) paradigm for improving knowledge extraction in language models.
 
 *Github Repo* [https://github.com/leileqiTHU/MTPhysics](https://github.com/leileqiTHU/MTPhysics)
 
