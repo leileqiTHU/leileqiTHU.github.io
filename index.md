@@ -8,7 +8,7 @@ This is where I share my projects, research, and other cool things!
   <img src="./assets/photo.jpeg" alt="My Photo" width="350" height="auto"/>
 </div>
 
-I am a second-year master's student at Tsinghua University, specializing in AI. And I will graduate in June 2026. Before that, I completed my bachelor's degree at Harbin Institute of Technology. 
+I am a second-year master's student at Tsinghua University, specializing in AI. And I will graduate in June 2026. Before this, I completed my bachelor's degree at Harbin Institute of Technology. 
 
 ## Publications
 
